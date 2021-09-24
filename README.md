@@ -5,5 +5,4 @@ You will need EEGLAB and EEG data collected from NeuroScan to run Step1_preproce
 
 You will need following files to run Step2_PLV_demo.m:
 
-eeg_lab file
-Neuroscan64.loc -- Neuroscan location file for topoplot
+eeg_lab file and Neuroscan64.loc -- Neuroscan location file
